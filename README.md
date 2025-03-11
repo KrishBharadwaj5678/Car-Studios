@@ -19,7 +19,7 @@ Car Studio is a cutting-edge web application that lets you immerse yourself in t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KrishBharadwaj394/Car-Studio.git
+   git clone https://github.com/KrishBharadwaj5678/Car-Studios.git
    ```
 2. Navigate to the project directory:
    ```bash
