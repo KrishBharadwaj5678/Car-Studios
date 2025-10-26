@@ -2,15 +2,15 @@
 
 Car Studio is a cutting-edge web application that lets you immerse yourself in the world of cars like never before. View stunning 3D car models, dive into detailed specifications, and use augmented reality (AR) to place your dream cars in real-world environments.
 
-![CarStudios]()
+![CarStudios](https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/CarStudiosDemo.png)
 
 ## Features
 
 | Feature                              | Description                                                                               |
 | :----------------------------------- | :---------------------------------------------------------------------------------------- |
 | 🧭 **Interactive 3D Models**         | Explore highly detailed 3D car models with full rotation, zoom, and panning capabilities. |
-| 📋 **Comprehensive Car Information** | Access detailed specifications, features, and insights for each car.                      |
-| 🌍 **Augmented Reality Placement**   | Visualize cars in your real-world environment using AR technology.                        |
+| 📋 **Car Information**               | Access detailed features, and insights for each car.                                       |
+| 🌍 **Augmented Reality**              | Visualize cars in your real-world environment using AR technology.                        |
 | 🎨 **User-Friendly Interface**       | Navigate effortlessly with a sleek, modern design and smooth performance.                 |
 
 ## Technologies Used
