@@ -2,18 +2,24 @@
 
 Car Studio is a cutting-edge web application that lets you immerse yourself in the world of cars like never before. View stunning 3D car models, dive into detailed specifications, and use augmented reality (AR) to place your dream cars in real-world environments.
 
+![CarStudios]()
+
 ## Features
 
-- **Interactive 3D Models**: Explore highly detailed 3D models of cars with full rotation, zoom, and panning capabilities.
-- **Comprehensive Car Information**: Access detailed specifications, features, and insights for each car.
-- **Augmented Reality Placement**: Visualize cars in your real-world environment using AR technology.
-- **User-Friendly Interface**: Navigate easily with a sleek, modern design.
+| Feature                              | Description                                                                               |
+| :----------------------------------- | :---------------------------------------------------------------------------------------- |
+| 🧭 **Interactive 3D Models**         | Explore highly detailed 3D car models with full rotation, zoom, and panning capabilities. |
+| 📋 **Comprehensive Car Information** | Access detailed specifications, features, and insights for each car.                      |
+| 🌍 **Augmented Reality Placement**   | Visualize cars in your real-world environment using AR technology.                        |
+| 🎨 **User-Friendly Interface**       | Navigate effortlessly with a sleek, modern design and smooth performance.                 |
 
 ## Technologies Used
 
-- **HTML**: For structuring the content of the website.
-- **CSS**: For styling and creating a responsive, modern layout.
-- **JavaScript**: For interactivity and dynamic features.
+| Technology        | Description                                                              |
+| :---------------- | :----------------------------------------------------------------------- |
+| 🧱 **HTML**       | Structures the content and layout of the website.                        |
+| 🎨 **CSS**        | Styles the website and ensures a responsive, modern design.              |
+| ⚙️ **JavaScript** | Adds interactivity and dynamic functionality to enhance user experience. |
 
 ## Installation
 
@@ -23,7 +29,7 @@ Car Studio is a cutting-edge web application that lets you immerse yourself in t
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Car-Studio
+   cd Car-Studios
    ```
 3. Open the index.html file in your browser to view the application.
 
