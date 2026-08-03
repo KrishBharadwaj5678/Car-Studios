@@ -1,10 +1,29 @@
-# 🚗 Car Studio 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/Car-Studios.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/Car-Studios?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/Car-Studios?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/Car-Studios?style=for-the-badge&color=blue" />
+</p>
 
-Car Studio is a cutting-edge web application that lets you immerse yourself in the world of cars like never before. View stunning 3D car models, dive into detailed specifications, and use augmented reality (AR) to place your dream cars in real-world environments.
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
-![CarStudios](https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/CarStudiosDemo.png)
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/favicon_io/favicon.ico" width="35"/> Car Studio</h1>
 
-## ✨ Features
+<p align="center">
+  Car Studio is an interactive web application that brings cars to life through immersive 3D models, detailed specifications, and augmented reality (AR), allowing you to explore and visualize vehicles in your own environment.
+</p>
+
+![CarStudiosDemo](https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/CarStudiosDemo.png)
+
+<img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/assets/readme/features.gif" width="35"/> Features
 
 | Feature                              | Description                                                                               |
 | :----------------------------------- | :---------------------------------------------------------------------------------------- |
@@ -13,38 +32,45 @@ Car Studio is a cutting-edge web application that lets you immerse yourself in t
 | 🌍 **Augmented Reality**              | Visualize cars in your real-world environment using AR technology.                        |
 | 🎨 **User-Friendly Interface**       | Navigate effortlessly with a sleek, modern design and smooth performance.                 |
 
----
+<img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🛠️ Tech Stack
+## <img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
 
-| Technology        | Description                                                              |
-| :---------------- | :----------------------------------------------------------------------- |
-| 🧱 **HTML**       | Structures the content and layout of the website.                        |
-| 🎨 **CSS**        | Styles the website and ensures a responsive, modern design.              |
-| ⚙️ **JavaScript** | Adds interactivity and dynamic functionality to enhance user experience. |
+| Technology | Purpose |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=html" width="25"/> **HTML5** | Structures the content and layout of the website. |
+| <img src="https://skillicons.dev/icons?i=css" width="25"/> **CSS3** | Styles the website with a responsive and modern design. |
+| <img src="https://skillicons.dev/icons?i=js" width="25"/> **JavaScript** | Adds interactivity and dynamic functionality. |
+| <img src="https://modelviewer.dev/assets/favicon.png" width="25"/> **Model Viewer** | Interacts with 3D models using `<model-viewer>` web component. |
 
----
+<img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🚀 Getting Started
+## <img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/Car-Studios.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Car-Studios
-   ```
-3. Open the index.html file in your browser to view the application.
+### 1️⃣ Clone the Repository
 
----
+```bash
+ git clone https://github.com/KrishBharadwaj5678/Car-Studios.git
+```
 
-## Contributing 🤝
+### 2️⃣ Navigate to the Project
 
-Want to contribute? Here's how:
+```bash
+ cd Car-Studios
+```
+   
+### 3️⃣ Open in Browser
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+Simply open `index.html` in your browser.
+
+<img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/assets/readme/license.gif" width="35"/> License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/Car-Studios/raw/main/assets/readme/footer.gif" width="300px"/>
+</p>
